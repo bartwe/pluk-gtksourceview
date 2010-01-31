@@ -85,6 +85,7 @@
       <keyword>abstract</keyword>
       <keyword>static</keyword>
       <keyword>extern</keyword>
+      <keyword>override</keyword>
     </context>
 
     <context id="scope-declarations" style-ref="scope-declaration">
